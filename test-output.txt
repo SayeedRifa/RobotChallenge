@@ -1,0 +1,15 @@
+There is/are 2 robot(s):
+0,0,NORTH (Active)
+4,4,SOUTH
+There is/are 2 robot(s):
+0,4,NORTH (Active)
+4,4,SOUTH
+There is/are 2 robot(s):
+1,4,EAST (Active)
+4,4,SOUTH
+There is/are 2 robot(s):
+1,4,EAST
+4,4,SOUTH (Active)
+There is/are 2 robot(s):
+1,4,EAST
+4,0,SOUTH (Active)
